@@ -4,7 +4,6 @@ import java.util.StringTokenizer;
 /**
  * Interface.java
  * Ali Ajwani
- * 251374819
  * 
  * This class implements a user interface for managing an ordered dictionary of records.
  * The commands allow users to define, translate, play media, display images and webpages,

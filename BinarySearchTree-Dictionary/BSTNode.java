@@ -1,7 +1,6 @@
 /**
  * BSTNode.java
  * Ali Ajwani
- * 251374819
  * 
  * This class represents a node in a binary search tree with each node containing
  * a record and reference to its left child, right child, and parent.

@@ -1,7 +1,6 @@
 /**
  * BinarySearchTree.java
  * Ali Ajwani 
- * 251374819
  * 
  * This class represents a binary search tree that stores records with unique keys.
  */

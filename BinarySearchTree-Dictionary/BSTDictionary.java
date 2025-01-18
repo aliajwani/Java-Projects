@@ -1,7 +1,6 @@
 /**
  * BSTDictionary.java
  * Ali Ajwani
- * 251374819
  * 
  * This class represents a dictionary implemented using a binary search tree.
  */

@@ -1,7 +1,6 @@
 /**
  * Record.java
  * Ali Ajwani
- * 251374819
  * 
  * This class represents a record to be stored in the internal nodes of the binary search tree.
  */
