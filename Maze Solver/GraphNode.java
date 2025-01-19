@@ -1,7 +1,6 @@
 /**
  * GraphNode.java
  * Ali Ajwani
- * 251374819
  * 
  * This class represents a node in a graph, identified by a unique name
  * and a marked state for traversal purposes.

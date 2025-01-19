@@ -1,7 +1,6 @@
 /**
  * HashDictionary.java
  * Ali Ajwani
- * 251374819 - aajwani2
  * October 27, 2024
  */
 

@@ -8,7 +8,6 @@ import java.util.List;
 /**
  * Maze.java
  * Ali Ajwani
- * 251374819
  * Nov 30, 2024
  * 
  * This class represents a maze, modeled as a graph, and provides methods to

@@ -1,7 +1,6 @@
 /**
  * GraphEdge.java
  * Ali Ajwani
- * 251374819
  * 
  * This class represents an edge in a graph, connecting two nodes and
  * storing information about the edge type and label.

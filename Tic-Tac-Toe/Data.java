@@ -1,7 +1,6 @@
 /**
  * Data.java
  * Ali Ajwani
- * 251374819 - aajwani2
  * October 27, 2024
  * 
  * The Data class represents a data structure containing a configuration string and a score.

@@ -1,7 +1,6 @@
 /**
  * Configurations.java
  * Ali Ajwani
- * 251374819 - aajwani2
  * October 27, 2024
  *
  * This class represents the game configurations, including the game board,
